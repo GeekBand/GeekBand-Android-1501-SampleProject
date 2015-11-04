@@ -17,3 +17,6 @@
 
 2015/11/1 Lab Manual更新
 发布3 注册模块 极客班Android专业 蓦然项目LabManual
+
+2015/11/4 Lab Manual更新
+更新3 注册模块 极客班Android专业 蓦然项目LabManual V1.1
